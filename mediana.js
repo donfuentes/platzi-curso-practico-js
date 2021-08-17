@@ -9,7 +9,7 @@ function calcularMediaAritmetica(lista){
     return promedioLista;
 };
 
-
+// --> Reto: Ordenar la lista con el método sort de los arrays en Js
 const lista = [
     100,
     200,

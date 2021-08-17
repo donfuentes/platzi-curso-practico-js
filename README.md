@@ -29,3 +29,4 @@ Curso práctico de JavaScript de Platzi durante #JsChallenge
 
 \\wsl$\Ubuntu-20.04\home\don_fuentes\testProjects\platzi-curso-practico-js\promedio.html
 \\wsl$\Ubuntu-20.04\home\don_fuentes\testProjects\platzi-curso-practico-js\mediana.html
+\\wsl$\Ubuntu-20.04\home\don_fuentes\testProjects\platzi-curso-practico-js\moda.html
